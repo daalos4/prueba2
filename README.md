@@ -14,4 +14,8 @@ Test number 1
 
 We gonna keep doing more test
 
+<<<<<<< HEAD
 ### Cambios nuevos desde el repositorio local
+=======
+## Cambios nuevos desde Github
+>>>>>>> 505df8bf3e8115eba4fc758ea064802f4ec97ef1
